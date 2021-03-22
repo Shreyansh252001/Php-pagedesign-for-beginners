@@ -18,16 +18,16 @@
 
     <div class="row navbar">
         <div class="col offset-s3 s1">
-            <a class="waves-effect waves-teal btn-flat btn-large" href="index.php">home</a>
+            <a class="waves-effect waves-teal btn-flat btn-large" href="index.php">Home</a>
         </div>
         <div class="col offset-s1 s1">
-            <a class="waves-effect waves-teal btn-flat btn-large" href="movies.php">movies</a>
+            <a class="waves-effect waves-teal btn-flat btn-large" href="movies.php">Movies</a>
         </div>
         <div class="col offset-s1  s1">
-            <a class="waves-effect waves-light btn-flat btn-large" href="personalities.php">personalities</a>
+            <a class="waves-effect waves-light btn-flat btn-large" href="personalities.php">Personalities</a>
         </div>
         <div class="col offset-s1 s1">
-            <a class="waves-effect waves-light btn-flat btn-large" href="cars.php">cars</a>
+            <a class="waves-effect waves-light btn-flat btn-large" href="cars.php">Cars</a>
         </div>
      </div>
 
